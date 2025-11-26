@@ -1,0 +1,14 @@
+# NetBeans project files
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/build.xml
+/manifest.mf
+nb-configuration.xml
+
+# Class files
+*.class
+
+# Other
+.DS_Store
